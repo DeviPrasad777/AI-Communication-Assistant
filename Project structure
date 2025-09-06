@@ -1,0 +1,6 @@
+AI-Communication-Assistant/
+├─ backend/
+│  └─ app.py
+├─ requirements.txt
+├─ README.md
+└─ .gitignore
